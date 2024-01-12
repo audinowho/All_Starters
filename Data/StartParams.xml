@@ -356,6 +356,27 @@
     <Gender>Unknown</Gender>
     <Name/>
   </StartChar>
+  <StartChar>
+    <Species>sprigatito</Species>
+    <Form>0</Form>
+    <Skin>normal</Skin>
+    <Gender>Unknown</Gender>
+    <Name/>
+  </StartChar>
+  <StartChar>
+    <Species>fuecoco</Species>
+    <Form>0</Form>
+    <Skin>normal</Skin>
+    <Gender>Unknown</Gender>
+    <Name/>
+  </StartChar>
+  <StartChar>
+    <Species>quaxly</Species>
+    <Form>0</Form>
+    <Skin>normal</Skin>
+    <Gender>Unknown</Gender>
+    <Name/>
+  </StartChar>
 </StartChars>
 <StartTeams>
   <StartTeam>Team Go-Getters</StartTeam>
