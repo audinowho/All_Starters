@@ -78,6 +78,13 @@
     <Gender>Unknown</Gender>
     <Name/>
   </StartChar>
+   <StartChar>
+    <Species>growlithe</Species>
+    <Form>1</Form>
+    <Skin>normal</Skin>
+    <Gender>Unknown</Gender>
+    <Name/>
+  </StartChar>
   <StartChar>
     <Species>machop</Species>
     <Form>0</Form>
@@ -233,7 +240,7 @@
     <Name/>
   </StartChar>
   <StartChar>
-    <Species>budew</Species>
+    <Species>shinx</Species>
     <Form>0</Form>
     <Skin>normal</Skin>
     <Gender>Unknown</Gender>
@@ -527,7 +534,7 @@
 <StartLevel>5</StartLevel>
 <MaxLevel>100</MaxLevel>
 <StartPersonality>5</StartPersonality>
-<DefaultZone>debug</DefaultZone>
+<DefaultZone>debug_zone</DefaultZone>
 <DefaultRank>none</DefaultRank>
 <DefaultSkin>normal</DefaultSkin>
 <DefaultAI>stick_together</DefaultAI>
